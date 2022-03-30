@@ -1,6 +1,18 @@
-title: Abhineet Chauhan
+title: <p align="center"> Abhineet Chauhan </p>
 logo: /assets/img/logo.png
-description: Machine Learning Engineer
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/abhineet-chauhan-466618233">LinkedIn</a> |
+  <a href="https://github.com/ABHI8896">GitHub</a>
+  
+  <br>   
+  I'm Learner of Machine Learning, Artificial Intelligence & Deep Learning
+  Leaning to code in python, Exploratory Data Analysis, Git & GitHub
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
